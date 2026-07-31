@@ -1,0 +1,31 @@
+# API and application serving
+fastapi
+pydantic
+python-dotenv
+streamlit
+uvicorn
+
+# Computer vision and imaging
+opencv-python
+pillow
+sam2
+ultralytics
+
+# Data processing and analysis
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+
+# Deep learning and model tooling
+huggingface-hub
+sentence-transformers
+torch
+torchvision
+transformers
+
+# LLM orchestration and retrieval
+faiss-cpu
+langchain
+langgraph
