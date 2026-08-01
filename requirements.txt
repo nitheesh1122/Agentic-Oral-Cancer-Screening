@@ -8,6 +8,7 @@ uvicorn
 # Computer vision and imaging
 opencv-python
 pillow
+pyiqa
 sam2
 ultralytics
 
