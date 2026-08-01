@@ -22,6 +22,8 @@ dist/
 
 models/*
 !models/.gitkeep
+dataset/*
+!dataset/.gitkeep
 outputs/*
 !outputs/.gitkeep
 
