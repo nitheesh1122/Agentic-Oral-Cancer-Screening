@@ -12,6 +12,9 @@ pyiqa
 sam2
 ultralytics
 
+# Spreadsheet reading (clinical metadata .xlsx files)
+openpyxl
+
 # Data processing and analysis
 matplotlib
 numpy

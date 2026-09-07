@@ -20,6 +20,10 @@ build/
 dist/
 *.egg-info/
 
+.data_prep_cache/
+
+archive/
+
 models/*
 !models/.gitkeep
 dataset/*
