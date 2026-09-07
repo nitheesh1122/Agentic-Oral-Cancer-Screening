@@ -11,6 +11,11 @@ pillow
 pyiqa
 sam2
 ultralytics
+# ultralytics 8.4.142 requires these at runtime (checkpoint save / model summary)
+# but does not declare them as hard install-time deps in this environment.
+polars
+cloudpickle
+ultralytics-thop
 
 # Spreadsheet reading (clinical metadata .xlsx files)
 openpyxl
